@@ -39,7 +39,8 @@
             <p>Contact: <input type="email"></p>
         </form>
     </div>
-    <iframe src="https://www.youtube.com/watch?v=oocunV4JX4w" frameborder="0"></iframe> 
+    
+    <iframe src="https://www.youtube.com/watch?v=oocunV4JX4w" frameborder="0" width="560" height="315" allowfullscreen></iframe> 
     
 
 </body>
